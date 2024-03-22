@@ -1,0 +1,1 @@
+"vmArgs": "--module-path 'c:\\Users\\bandi\\OneDrive\\Desktop\\Object Oriented\\openjfx-21.0.2_windows-x64_bin-sdk\\javafx-sdk-21.0.2\\lib' --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web"
